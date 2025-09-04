@@ -7,7 +7,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 
 ACCOUNTS = {
-    '13873171733': 'tt030519'
+    #  替换为你的账号和密码
+    #  '138......': '...........'
 }
 
 
